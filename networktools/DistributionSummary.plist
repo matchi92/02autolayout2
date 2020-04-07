@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>networktools</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>x86_64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>FE5661E7290CEB1FCA99F4B884F5F50D32AF175B</string>
+				<key>dateExpires</key>
+				<string>06.02.25</string>
+				<key>type</key>
+				<string>Developer ID Application</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>com.apple.security.app-sandbox</key>
+				<true/>
+				<key>com.apple.security.files.user-selected.read-only</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>networktools.app</string>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>6KD26L2C7U</string>
+				<key>name</key>
+				<string>EasySolutions GmbH</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
